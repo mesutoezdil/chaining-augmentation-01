@@ -93,6 +93,6 @@ Result after chaining operations: 12
 
 ## Future Improvements
 
-- **Extend Functionality**: New functions can be added to the chain for more complex transformations.
-- **Error Handling**: Implement error handling within each function to make the application more robust.
-- **CLI Interface**: Add a command-line interface (CLI) for dynamic user input and testing of different values.
+- **Extend Functionality**: New functions can be added to the chain for more complex transformations
+- **Error Handling**: Implement error handling within each function to make the application more robust
+- **CLI Interface**: Add a command-line interface (CLI) for dynamic user input and testing of different values
